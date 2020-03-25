@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fb378ad-4f2e-4bb8-86ff-95b0eccbe7d8" name="Default Changelist" comment="" />
+    <list default="true" id="0fb378ad-4f2e-4bb8-86ff-95b0eccbe7d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/People/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/People/Dealer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/People/Participant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/People/DealerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/People/ParticipantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodeClanCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodeClanCars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Components/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Components/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Components/Doors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Components/Gearbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Components/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Components/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Components/Tyres.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Customers/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/People/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dealership/Dealership.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Vehicles/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Vehicles/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Vehicles/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Vehicles/Petrol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Vehicles/HybridCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Vehicles/Electric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Vehicles/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Customers/CustomerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Dealership/DealershipTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Vehicles/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Vehicles/CarTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +38,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,8 +50,19 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZcZCjb2k54EV3lnQXEM3BkfaO1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="People" />
+      <recent name="Dealership" />
+      <recent name="Customers" />
+      <recent name="Vehicles" />
+      <recent name="Components" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -39,6 +76,53 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.All in codeclancars">
+    <configuration name="All in codeclancars" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codeclancars" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codeclancars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vehicles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Vehicles" />
+      <option name="MAIN_CLASS_NAME" value="Vehicles.CarTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codeclancars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="People.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="People" />
+      <option name="MAIN_CLASS_NAME" value="People.CustomerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in codeclancars" />
+        <item itemvalue="JUnit.CustomerTest" />
+        <item itemvalue="JUnit.CarTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -51,5 +135,16 @@
       <updated>1585140217046</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
