@@ -43,8 +43,8 @@ public class DealerTest {
 
     @Test
     public void currentlyStockedCars(){
-        dealer.addStockCars(petrolCar, electricCar);
-        assertEquals(3, dealer.stockCarsCount());
+        dealer.addStockCars(petrolCar);
+        assertEquals(1, dealer.stockCarsCount());
     }
 
 

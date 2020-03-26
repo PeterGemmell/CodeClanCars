@@ -43,7 +43,7 @@ public class Dealer extends Participant {
         return this.stockCars.size();
     }
 
-    public void addStockCars(Car car, Electric electricCar){
+    public void addStockCars(Car car){
         this.stockCars.add(car);
 
     }
